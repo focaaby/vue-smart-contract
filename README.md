@@ -1,4 +1,4 @@
-# views
+# vue-smart-contract
 
 > A Vue.js project
 
